@@ -1,14 +1,5 @@
-/**
-* @name NotAnotherAnimeTheme
-* @author puckzxz#2080
-* @version 3.2
-* @description An easily customizable and automatically updating theme
-* @invite FdZhbjY
-* @source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
-*/
 
-@import url(https://github.com/4ntiher0/4ntiher0-CowboyBebop-theme.v1/blob/main/global.css);
+@import url(https://raw.githubusercontent.com/4ntiher0/4ntiher0-CowboyBebop-theme.v1/refs/heads/main/global.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
